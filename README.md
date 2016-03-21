@@ -8,3 +8,6 @@ test depuis ordi
 on change la branche mouahahah
 =======
 >>>>>>> branche_2
+test
+a bit about myself
+je modifie master
