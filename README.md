@@ -1,5 +1,4 @@
 # hello-world
-test
-a bit about myself
+parce que le texte d'avant etait pourri
 
-test depuis ordi
+
